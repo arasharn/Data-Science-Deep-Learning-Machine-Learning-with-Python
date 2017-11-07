@@ -1,1 +1,1 @@
-This folder contains the data set and the solution for Naïve base spam classification
+This folder contains solution for Naïve base spam classification
