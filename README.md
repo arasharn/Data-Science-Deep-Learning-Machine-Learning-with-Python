@@ -6,4 +6,5 @@ This repository includes my codes for Udemy “Data Science, Deep Learning, &amp
 * Exercise 2: Includes solutions for $\2^{nd}$ exercise of the course
 * Exercise 3: Includes solutions for $$\mathbf{\alpha}$$ exercise of the course   
 $\frac{\sigma}{\mu}$   
+_E = mc ^2^_
 
