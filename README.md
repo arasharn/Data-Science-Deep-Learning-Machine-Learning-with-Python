@@ -4,6 +4,6 @@ This repository includes my codes for Udemy “Data Science, Deep Learning, &amp
 * Acitivitis: Includes all course activities with my solutions
 * Exercises: Includes solutions for $\\1^st\\$ exercise of the course
 * Exercise 2: Includes solutions for $\2^{nd}$ exercise of the course
-* Exercise 3: Includes solutions for $$\mathbf{2^{nd}}$$ exercise of the course
+* Exercise 3: Includes solutions for $$\mathbf{\alpha}$$ exercise of the course
 
 
