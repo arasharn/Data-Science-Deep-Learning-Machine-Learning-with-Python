@@ -5,5 +5,6 @@ This repository includes my codes for Udemy “Data Science, Deep Learning, &amp
 * Exercises: Includes solutions for $\\1^st\\$ exercise of the course
 * Exercise 2: Includes solutions for $\2^{nd}$ exercise of the course
 * Exercise 3: Includes solutions for $$\mathbf{\alpha}$$ exercise of the course
+<img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " />
 
 
