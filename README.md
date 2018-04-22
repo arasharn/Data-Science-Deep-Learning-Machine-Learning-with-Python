@@ -1,10 +1,15 @@
 # Data-Science-Deep-Learning-Machine-Learning-with-Python
-## Arash Nouri
-This repository includes my codes for Udemy “Data Science, Deep Learning, &amp; Machine Learning with Python” course with Frank Kane. The subfolders are:
-* Acitivitis: Includes all course activities with my solutions
-* Exercises: Includes solutions for **1<sup>st<sup>** exercise of the course
-* Exercise 2: Includes solutions for $\2^{nd}$ exercise of the course
-* Exercise 3: Includes solutions for $$\mathbf{\alpha}$$ exercise of the course   
- 
-*E = mc<sup>2</sup>*
 
+This repository includes my codes for Udemy “Data Science, Deep Learning, &amp; Machine Learning with Python” course with Frank Kane. Subfolders are (Updating):
+* Acitivitis: Includes all course activities with my solutions
+* Exercises: Includes solutions for *1<sup>st<sup>* exercise of the course
+* Exercise 2: Includes solutions for *2<sup>nd<sup>* exercise of the course
+* Exercise 3: Includes solutions for *3<sup>rd<sup>* exercise of the course   
+
+## Built With
+
+* `Python 3` and `Jupyter Notebook`
+
+## Authors
+
+* **Arash Nouri** [Eren](https://github.com/arasharn)
