@@ -8,7 +8,7 @@ This repository includes my codes for Udemy “Data Science, Deep Learning, &amp
 
 ## Built With
 
-* `Python 3` and `Jupyter Notebook`
+* [`Python 3`](https://www.python.org/download/releases/3.0/) and [`Jupyter Notebook`](http://jupyter.org)
 
 ## Authors
 
