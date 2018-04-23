@@ -15,8 +15,8 @@ This folders contains the activities solutions for this course. The subfolders a
 * [Activity 14](https://github.com/arasharn/Data-Science-Deep-Learning-Machine-Learning-with-Python/tree/master/Activities/Activity%2014): Clustering people based on income and age with k-means clustering
 * [Activity 16](https://github.com/arasharn/Data-Science-Deep-Learning-Machine-Learning-with-Python/tree/master/Activities/Activity%2016): Descision Trees
 * [Activity 17](https://github.com/arasharn/Data-Science-Deep-Learning-Machine-Learning-with-Python/tree/master/Activities/Activity%2017): Using SVM to cluster people
-* [Activities 18 - 19:](https://github.com/arasharn/Data-Science-Deep-Learning-Machine-Learning-with-Python/tree/master/Activities/Activities%2018%20-%2019): 
-* [Activity 19]():
+* [Activities 18 - 19:](https://github.com/arasharn/Data-Science-Deep-Learning-Machine-Learning-with-Python/tree/master/Activities/Activities%2018%20-%2019): A simple movie recommender system
+* [Activity 20](https://github.com/arasharn/Data-Science-Deep-Learning-Machine-Learning-with-Python/tree/master/Activities/Activity%2020): Using KNN to predict a rating for a movie
 
 ## Built With
 
