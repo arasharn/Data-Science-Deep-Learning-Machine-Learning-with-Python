@@ -13,7 +13,7 @@ This folders contains the activities solutions for this course. The subfolders a
 * [Activity 12](https://github.com/arasharn/Data-Science-Deep-Learning-Machine-Learning-with-Python/tree/master/Activities/Activity%2012): Using trian and test sets to prevent overfitting
 * [Activity 13](https://github.com/arasharn/Data-Science-Deep-Learning-Machine-Learning-with-Python/tree/master/Activities/Activity%2013): Implement a spam classifier with Naive Bayes 
 * [Activity 14](https://github.com/arasharn/Data-Science-Deep-Learning-Machine-Learning-with-Python/tree/master/Activities/Activity%2014): Clustering people based on income and age with k-means clustering
-* [Activity 16]():
+* [Activity 16](https://github.com/arasharn/Data-Science-Deep-Learning-Machine-Learning-with-Python/tree/master/Activities/Activity%2016):
 * [Activities 17 - 18:]()
 * [Activity 19]():
 
