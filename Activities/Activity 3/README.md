@@ -1,4 +1,4 @@
-### Activity 3 ###
+# Activity 3
 
 In this activity, tried to review the basic commands of [Python](https://www.python.org), by writing a code to create random numbers and then recogonize if it is an odd number or not. there are two files in this folder:
 
