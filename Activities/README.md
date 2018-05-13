@@ -1,8 +1,8 @@
 # Activities
 
 This folders contains the activities solutions for this course. The subfolders are (Updating): 
-* [Activity 3](): `Python` basics 
-* [Activity 4](): Using mean, median, and mode in `Python`
+* [Activity 3](https://github.com/arasharn/Data-Science-Deep-Learning-Machine-Learning-with-Python/tree/master/Activities/Activity%203): `Python` basics and findind odd numbers
+* [Activity 4](https://github.com/arasharn/Data-Science-Deep-Learning-Machine-Learning-with-Python/tree/master/Activities/Activity%204): Using mean, median, and mode in `Python`
 * [Activity 5](): Variation and standard deviation
 * [Activity 6](): Percentiles and moments
 * [Activity 7](): A crash course on `matplotlib`
