@@ -1,4 +1,4 @@
-# Data-Science-Deep-Learning-Machine-Learning-with-Python
+# Data-Science-Deep-Learning-Machine-Learning-with-Python (Under Updating)
 
 This repository includes my codes for Udemy “Data Science, Deep Learning, & Machine Learning with Python” course with Frank Kane. Subfolders are (Updating):
 * Acitivitis: Includes all course activities with my solutions
